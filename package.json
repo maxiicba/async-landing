@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "deploy": "gh-pages -d src" 
   },
   "author": "maximiliano",
@@ -12,4 +13,23 @@
     "gh-pages": "^5.0.0"
   }
 
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/platzi/async-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/platzi/async-landing/issues"
+  },
+  "homepage": "https://github.com/platzi/async-landing#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "request": "^2.88.2"
+  }
+>>>>>>> b5946b6502c0bfee8fc7c3c72d8cc73d92b4686e
 }
