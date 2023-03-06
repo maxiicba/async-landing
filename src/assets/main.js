@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-const API = 'https://youtube-v31.p.rapidapi.com/search?channelId=UCam8T03EOFBsNdR0thrFHdQ&part=snippet%2Cid&order=date&maxResults=10';
+/* const API = 'https://youtube-v31.p.rapidapi.com/search?channelId=UCam8T03EOFBsNdR0thrFHdQ&part=snippet%2Cid&order=date&maxResults=10';
 
 const content = document.getElementById('content');
 
@@ -46,13 +45,12 @@ async function fetchData(urlApi){
         console.log(error);
     }
 })();
-//==========================
+//========================== */
 
 /* usando npm run deploy para desplegar el script*/
 
-=======
 const API =
-  "https://youtube-v31.p.rapidapi.com/search?channelId=UCw05fUBPwmpu-ehXFMqfdMw&part=snippet%2Cid&order=date&maxResults=50";
+  "https://youtube-v31.p.rapidapi.com/search?channelId=UCam8T03EOFBsNdR0thrFHdQ&part=snippet%2Cid&order=date&maxResults=50";
 
 const content = null || document.getElementById("content");
 
@@ -152,4 +150,3 @@ async function fetchData(urlApi) {
     console.log(error);
   }
 })(); */
->>>>>>> b5946b6502c0bfee8fc7c3c72d8cc73d92b4686e

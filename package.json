@@ -4,17 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
-    "deploy": "gh-pages -d src" 
-  },
-  "author": "maximiliano",
-  "license": "ISC",
-  "devDependencies": {
-    "gh-pages": "^5.0.0"
-  }
-
-=======
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
@@ -31,5 +21,4 @@
     "node-fetch": "^3.3.0",
     "request": "^2.88.2"
   }
->>>>>>> b5946b6502c0bfee8fc7c3c72d8cc73d92b4686e
 }
