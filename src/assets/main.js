@@ -72,7 +72,6 @@ async function fetchData(urlApi) {
   return data;
 }
 
-const URLyt = "https://www.youtube.com/watch?v=";
 
 (async () => {
   try {
